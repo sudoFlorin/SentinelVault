@@ -1,4 +1,5 @@
 Sentinel Vault 🛡️
+
 Sentinel Vault is a high-security, local-first password management system built with Java. It provides a "Zero-Knowledge" architecture, ensuring that user credentials never leave the local machine and are protected by industry-standard encryption.
 
 🚀 Features

@@ -1,7 +1,3 @@
-To make your GitHub page look professional and align with the "Sentinel Vault" project requirements, your README.md should clearly communicate the security architecture, technical stack, and core features.
-
-Below is a high-quality Markdown template you can copy and paste directly into your repository.
-
 Sentinel Vault 🛡️
 Sentinel Vault is a high-security, local-first password management system built with Java. It provides a "Zero-Knowledge" architecture, ensuring that user credentials never leave the local machine and are protected by industry-standard encryption.
 

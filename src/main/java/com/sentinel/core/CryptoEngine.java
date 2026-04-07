@@ -1,4 +1,4 @@
-package com.sentinel;
+package com.sentinel.core;
 
 import javax.crypto.Cipher;
 import javax.crypto.SecretKey;
